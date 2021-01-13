@@ -1,9 +1,7 @@
 # Class Design Project
 
 1. Pick some topic that holds interest for you.
-2. Design a class that represents this topic.
-
-The class should have:
+2. Design a class that represents this topic. The class should have:
 
 - instance variables (at least two)
 - constants (at least one)
