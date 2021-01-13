@@ -2,7 +2,7 @@
 
 1. Pick some topic that holds interest for you.
 2. Add a file for that class (for example, if I am designing a Dog class, I would add a file named Dog.java).
-3. Design and write the Java class that represents this topic. The class should have:
+3. In this file, design and write the Java class that represents this topic. The class should have:
 
 - instance variables (at least two)
 - constants (at least one)
