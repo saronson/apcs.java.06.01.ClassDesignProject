@@ -13,7 +13,11 @@
 3. Add code to the ```main``` in the Test class to make some objects from your class and do something interesting with them
 
 If you want to get input from a user in your test program,  here is code to do that:
+
   ```java.util.Scanner scan = new java.util.Scanner(System.in);```
+  
   ```scan.next()``` will have user enter a String
+  
   ```scan.nextInt()``` will have user enter an integer
+  
   ```scan.nextDouble()``` will have user enter a double
