@@ -1,12 +1,20 @@
-# ParkingLot Lab
-1.	Create a class called ```ParkingLot``` with instance variable ```int numCars``` to represent the number of cars in the parking lot.
-2.	Add a public integer constant ```MAX_CARS``` and set it to 2500.
-3.	Add a default constructor that sets the starting number of cars to 0.
-4.	Add another constructor that sets the starting number of cars through a parameter.
-5.	Add accessor ```getNumCars()``` and mutator ```setNumCars (int theNumCars)```.  
-6.	Add a ```toString()``` method that returns "Number of cars is 10" (for example, if the lot had 10 cars in it).
-7.	Add method ```boolean equals(Object other)``` to return true if this parking lot has the same number of cars as the other parking lot. So that you can access the other object’s ```numCars```, the first line should look like this:  
-        
-                ParkingLot p = (ParkingLot)other;
-8.	Write a test class called ```LFHS``` with a method ```ParkingLot fillLot()``` that creates a ```ParkingLot``` object and sets its number of cars to 400 and returns the ```ParkingLot``` object.
+# Class Design Project
 
+Pick some topic that holds interest for you.
+Design a class that represents this topic.
+The class should have:
+
+
+- instance variables (at least two)
+- constants (at least one)
+- constructors (at least two, one of which is a default constructor)
+- accessor and mutator methods (gets and sets for each instance variable)
+- ```public String toString()``` method
+- ```public boolean equals(Object obj)``` method 
+- change Test class to make some objects from your class and do something interesting with them
+
+If you want to get input from a user in your test program,  here is code to do that:
+  ```java.util.Scanner scan = new java.util.Scanner(System.in);```
+  ```scan.next()``` will have user enter a String
+  ```scan.nextInt()``` will have user enter an integer
+  ```scan.nextDouble()``` will have user enter a double
