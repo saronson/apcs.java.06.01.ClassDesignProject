@@ -1,7 +1,8 @@
 # Class Design Project
 
 1. Pick some topic that holds interest for you.
-2. Design a class that represents this topic. The class should have:
+2. Add a file for that class (for example, if I am designing a Dog class, I would add a file named Dog.java).
+3. Design a class that represents this topic. The class should have:
 
 - instance variables (at least two)
 - constants (at least one)
@@ -10,7 +11,7 @@
 - ```public String toString()``` method
 - ```public boolean equals(Object obj)``` method 
 
-3. Add code to the ```main``` in the Test class to make some objects from your class and do something interesting with them
+4. Add code to the ```main``` in the Test class to make some objects from your class and do something interesting with them
 
 If you want to get input from a user in your test program,  here is code to do that:
 
