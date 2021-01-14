@@ -14,7 +14,7 @@
 
 4. Add code to the ```main``` in the Test class to make some objects from your class and call your methods to prove that they work
 
-If you want to get input from a user in your test program,  here is code to do that:
+To get input from a user in your test program,  here is code to do that:
 
   ```Scanner scan = new Scanner(System.in);```
   
