@@ -16,7 +16,7 @@
 
 If you want to get input from a user in your test program,  here is code to do that:
 
-  ```java.util.Scanner scan = new java.util.Scanner(System.in);```
+  ```Scanner scan = new Scanner(System.in);```
   
   ```scan.next()``` will have user enter a String
   
