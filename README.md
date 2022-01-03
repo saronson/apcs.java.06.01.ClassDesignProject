@@ -5,6 +5,7 @@
 3. In this file, design and write the Java class that represents this topic. The class should have:
 
 - instance variables (at least two)
+- static variable (at least one)
 - constants (at least one)
 - constructors (at least two, one of which is a default constructor)
 - accessor and mutator methods (gets and sets for each instance variable)
