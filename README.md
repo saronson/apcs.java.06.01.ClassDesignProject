@@ -11,7 +11,7 @@
 - accessor and mutator methods (gets and sets for each instance variable)
 - ```public String toString()``` method
 - ```public boolean equals(Object obj)``` method 
-- at least one method that uses the instance variables to do something interesting
+- at least one method that uses the instance variables to perform some interesting calculation
 
 4. Add code to the ```main``` in the Test class to make some objects from your class and call each of your methods to prove that they work
 
