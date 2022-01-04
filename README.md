@@ -13,7 +13,7 @@
 - ```public boolean equals(Object obj)``` method 
 - at least one method that uses the instance variables to perform some interesting calculation
 
-4. Add code to the ```main``` in the Test class to make some objects from your class and call each of your methods to prove that they work
+4. Add code to the ```main``` in the Test class to make some objects from your class in an array and call each of your methods to prove that they work
 
 To get input from a user in your test program,  here is code to do that:
 
